@@ -1,1 +1,1 @@
-# multi-class-classification-ML
+# Multi-class-classification-ML
